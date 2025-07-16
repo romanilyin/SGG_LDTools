@@ -76,9 +76,9 @@ SOFTWARE.
 ```
 
 ## Поддержка
-[Сообщить о проблеме](https://github.com/romanilyin/SGG_LDTools/issues) | [Предложить улучшение](https://github.com/romanilyin/SGG_LDTools/discussions)
+[Сообщить о проблеме](https://github.com/romanilyin/SGG_LDTools/issues) 
 
 ---
-[romanilyin.github.io](https://romanilyin.github.io) 
+[romanilyin@github](https://https://github.com/romanilyin/) 
 
 Inspired by [SnapToTerrain Tool by VladislavKovalenko](https://github.com/VladislavKovalenko/Snap-To-Terrain/tree/main?tab=readme-ov-file)
