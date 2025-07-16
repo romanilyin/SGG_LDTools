@@ -10,19 +10,21 @@ namespace com.sungeargames.ldtools_editor
     {
         static DropObjectsTool()
         {
-            // Подписка на горячую клавишу 'D'
+            // Подписка на горячую клавишу 
             SceneView.duringSceneGui += OnSceneGUI;
         }
 
         private static void OnSceneGUI(SceneView sceneView)
         {
             // Обработка горячей клавиши 'D'
+/*
             Event e = Event.current;
             if (e.type == EventType.KeyDown && e.keyCode == KeyCode.D && !e.control && !e.shift && !e.alt)
             {
                 DropObjectsWindow.ShowWindow();
                 e.Use();
             }
+*/
         }
 
         public static void DropObjects(DropObjectsWindow.DropMode mode)
@@ -220,7 +222,7 @@ namespace com.sungeargames.ldtools_editor
             }
 
             EditorGUILayout.HelpBox(
-                "Shortcut: Use hotkey 'D' in scene view\n" +
+                //"Shortcut: Use hotkey 'D' in scene view\n" +
                 "Ctrl+Z supported for all operations",
                 MessageType.None);
         }
