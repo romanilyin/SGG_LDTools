@@ -1,0 +1,13 @@
+{
+  "name": "com.sungeargames.ldtools_editor",
+  "displayName": "SGG LevelDesign Tools",
+  "version": "2025.716.1",
+  "unity": "2021.3",
+  "description": "Level Design Tools",
+  "keywords": [
+    "level design",
+    "tools"
+  ],
+  "category": "Editor Tools",
+  "dependencies": {}
+}

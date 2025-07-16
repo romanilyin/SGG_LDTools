@@ -1,0 +1,18 @@
+{
+    "name": "com.sungeargames.ldtools_editor",
+    "references": [
+        "UnityEngine.CoreModule",
+        "UnityEditor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
